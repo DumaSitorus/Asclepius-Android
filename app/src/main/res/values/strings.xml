@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Analysis Result</string>
+    <string name="simpan_hasil">Save Result</string>
+    <string name="date_example">12 December 2024 | 23.59 WIB</string>
+    <string name="skin_image">Skin Image</string>
+    <string name="read_news">Read News</string>
+    <string name="news_image">News Image</string>
+    <string name="news_page_text">Find the latest news about cancer, including updates on the latest research and innovations in treatment and prevention..</string>
+    <string name="news_icon">News Icon</string>
+    <string name="cencer_news_update">Cencer News Update</string>
+    <string name="arrow_icon">Arrow Icon</string>
+    <string name="checkup">Checkup</string>
+    <string name="history">History</string>
+    <string name="detail">Detail</string>
+    <string name="delete">Delete</string>
+    <string name="title_example">This is The News Title</string>
+
+    <!--API Key-->
+    <string name="news_api_key">62d1a0693ed845aab45ccdbcdb75a01d</string>
+    <string name="result1">Result</string>
+    <string name="prediction_result1">Prediction Result:</string>
+    <string name="confidence">Confidence:</string>
+
+</resources>
